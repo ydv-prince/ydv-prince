@@ -28,22 +28,43 @@ I'm a computer science student passionate about software development, open sourc
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-### 📊 Data Visualization Stack
+### Data Science & Machine Learning
 
+#### **🤖 Core ML & AI**
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Statistics](https://img.shields.io/badge/Statistics-0080FF?style=for-the-badge&logo=chart.js&logoColor=white)
+![Probability](https://img.shields.io/badge/Probability-4B0082?style=for-the-badge&logo=dice&logoColor=white)
+![Linear Algebra](https://img.shields.io/badge/Linear%20Algebra-003366?style=for-the-badge&logo=matrix&logoColor=white)
+![Calculus](https://img.shields.io/badge/Calculus-8B0000?style=for-the-badge&logo=sigma&logoColor=white)
+
+#### **📊 Data Processing & Analysis**
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Data Analysis](https://img.shields.io/badge/Data%20Analysis-2E8B57?style=for-the-badge&logo=google-analytics&logoColor=white)
+![Data Cleaning](https://img.shields.io/badge/Data%20Cleaning-4682B4?style=for-the-badge&logo=brush&logoColor=white)
+![Feature Engineering](https://img.shields.io/badge/Feature%20Engineering-8A2BE2?style=for-the-badge&logo=wrench&logoColor=white)
+![EDA](https://img.shields.io/badge/EDA%20(Exploratory%20Data%20Analysis)-32CD32?style=for-the-badge&logo=magnifying-glass&logoColor=white)
+
+#### **📈 Data Visualization**
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=matplotlib&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=seaborn&logoColor=white)
 ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
 ![Bokeh](https://img.shields.io/badge/Bokeh-EF3C2D?style=for-the-badge&logo=bokeh&logoColor=white)
-![3D Plotting](https://img.shields.io/badge/3D%20Plotting-FF6B6B?style=for-the-badge&logo=cube&logoColor=white)
+![3D Plotting](https://img.shields.io/badge/3D%20Plotting-FF4500?style=for-the-badge&logo=cube&logoColor=white)
 
-### **Visualization Libraries Expertise**
-- **Matplotlib**: Static 2D & 3D plots
-- **Seaborn**: Statistical data visualization
-- **Plotly**: Interactive & web-based visualizations
-- **Bokeh**: Interactive visualization for browsers
-- **3D Plotting**: Advanced 3D data representation
+#### **🔬 Data Science Tools**
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
+![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white)
+![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)
 
-### Frameworks & Libraries
+### **Databases**
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
+### Web Development
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
@@ -52,6 +73,8 @@ I'm a computer science student passionate about software development, open sourc
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ---
 
