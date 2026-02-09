@@ -92,10 +92,10 @@ I'm a computer science student passionate about software development, open sourc
 
 ## 📚 Currently Learning
 
-- 🔹 **Data Science** as a Carrer Objective
-- 🔹 **Machine Learning** with Python
-- 🔹 **MERN** certification
-- 🔹 **JAVA** for DSA & Enterprise Developement
+- **Data Science** as a Carrer Objective
+- **Machine Learning** with Python
+- **MERN** certification
+- **JAVA** for DSA & Enterprise Developement
 
 ---
 
