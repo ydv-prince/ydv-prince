@@ -3,21 +3,18 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ydv-prince&label=Profile%20views&color=0e75b6&style=flat" alt="ydv-prince" />
-  <a href="https://twitter.com/yourtwitter"><img src="https://img.shields.io/twitter/follow/yourtwitter?logo=twitter&style=for-the-badge" alt="twitter" /></a>
 </p>
 
 ---
 
 ## 🚀 About Me
 
-I'm a computer science student passionate about software development, open source, and cutting-edge technologies. I love building projects that solve real-world problems and contribute to the developer community.
+I'm a computer science student passionate about software development, open source, and cutting-edge technologies. I like building projects that solve real-world problems and contribute to the developer community.
 
-- 🔭 I'm currently working on: **Building my GitHub portfolio**
-- 🌱 I'm currently learning: **Full Stack Development & Cloud Computing**
+- 🔭 I'm currently learning on: **Machine Learning & Full Stack Developement**
 - 👯 I'm looking to collaborate on: **Open source projects**
-- 💬 Ask me about: **Python, Web Development, Student Life**
-- 📫 How to reach me: **your.email@example.com**
-- ⚡ Fun fact: **I can solve a Rubik's cube in under 2 minutes!**
+- 💬 Ask me about: **Python, Web Development, Student Life, JAVA, **
+- 📫 How to reach me: **pkumar052@rku.ac.in**
 
 ---
 
@@ -40,7 +37,6 @@ I'm a computer science student passionate about software development, open sourc
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ---
 
@@ -77,20 +73,18 @@ I'm a computer science student passionate about software development, open sourc
 
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
-| [📚 Student Manager](link) | Student management system | Python, MySQL |
-| [🌐 Portfolio Website](link) | Personal portfolio | HTML, CSS, JS |
-| [✅ Todo App](link) | Task management app | React, Node.js |
+| [Healthcare](https://github.com/ydv-prince/Healthcare-Flutter) | Healthcare management system | Flutter, Firebase |
+| [Machine Learning](https://github.com/ydv-prince/ML-Practicals) | Learning ML |
 
 ---
 
 ## 📫 Connect With Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://twitter.com/yourusername"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://linkedin.com/in/prince-kumar-64664a194"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:pkumar052@rku.ac.in"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://ydv-prince.github.io"><img src="https://img.shields.io/badge/Portfolio-FF7139?style=for-the-badge&logo=firefox-browser&logoColor=white" alt="Portfolio" /></a>
-  <a href="https://leetcode.com/yourprofile"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" /></a>
+  <a href="https://leetcode.com/prince-ydv"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" /></a>
 </p>
 
 ---
@@ -98,9 +92,9 @@ I'm a computer science student passionate about software development, open sourc
 ## 📚 Currently Learning
 
 - 🔹 **Machine Learning** with Python
-- 🔹 **AWS Cloud Practitioner** certification
-- 🔹 **React Native** for mobile development
-- 🔹 **System Design** principles
+- 🔹 **MERN** certification
+- 🔹 **Flutter** for mobile development
+- 🔹 **JAVA** for DSA & Entripse Developement
 
 ---
 
