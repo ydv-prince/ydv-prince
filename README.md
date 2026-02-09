@@ -93,9 +93,9 @@ I'm a computer science student passionate about software development, open sourc
 
 ## 📚 Currently Learning
 
+- 🔹 **Data Science** as a Carrer Objective
 - 🔹 **Machine Learning** with Python
 - 🔹 **MERN** certification
-- 🔹 **Flutter** for mobile development
 - 🔹 **JAVA** for DSA & Entripse Developement
 
 ---
