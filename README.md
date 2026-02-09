@@ -13,7 +13,7 @@ I'm a computer science student passionate about software development, open sourc
 
 - 🔭 I'm currently learning on: **Machine Learning & Full Stack Developement**
 - 👯 I'm looking to collaborate on: **Open source projects**
-- 💬 Ask me about: **Python, Web Development, Student Life, JAVA, **
+- 💬 Ask me about: **Python, Web Development, Student Life, JAVA**
 - 📫 How to reach me: **pkumar052@rku.ac.in**
 
 ---
@@ -73,8 +73,10 @@ I'm a computer science student passionate about software development, open sourc
 
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
+| [Data Analysis](https://github.com/ydv-prince/EDA) | Exploratory Data Analysis | Python, Pandas, Numpy, Matplotlib, Seaborn |
+| [Machine Learning](https://github.com/ydv-prince/ML-Practicals) | Learning ML | Python, Scikit-learn |
 | [Healthcare](https://github.com/ydv-prince/Healthcare-Flutter) | Healthcare management system | Flutter, Firebase |
-| [Machine Learning](https://github.com/ydv-prince/ML-Practicals) | Learning ML |
+| [Java Developement](https://github.com/ydv-prince/JAVA-Full-Stack) | Learning Java Developement | Java |
 
 ---
 
