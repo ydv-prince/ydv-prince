@@ -87,7 +87,7 @@ I'm a computer science student passionate about software development, open sourc
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ydv-prince&theme=radical&no-frame=true&row=2&column=4" alt="ydv-prince trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=ydv-prince" alt="GitHub Trophies" />
 </p>
 
 ---
