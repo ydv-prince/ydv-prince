@@ -82,12 +82,10 @@ I'm a computer science student passionate about software development, open sourc
 
 ## 📫 Connect With Me
 
-<p align="center">
-  <a href="https://linkedin.com/in/prince-kumar-64664a194"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:pkumar052@rku.ac.in"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://ydv-prince.github.io"><img src="https://img.shields.io/badge/Portfolio-FF7139?style=for-the-badge&logo=firefox-browser&logoColor=white" alt="Portfolio" /></a>
-  <a href="https://leetcode.com/prince-ydv"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" /></a>
-</p>
+<p align="center"> <a href="https://linkedin.com/in/prince-kumar-64664a194"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a> 
+<a href="mailto:pkumar052@rku.ac.in?subject=Contact%20from%20GitHub&body=Hello%20Prince," title="Send an email to Prince"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="https://ydv-prince.github.io"><img src="https://img.shields.io/badge/Portfolio-FF7139?style=for-the-badge&logo=firefox-browser&logoColor=white" alt="Portfolio" /></a>
+<a href="https://leetcode.com/prince-ydv"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" /></a> </p>
 
 ---
 
