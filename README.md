@@ -9,7 +9,7 @@
 
 ## 🚀 About Me
 
-I'm a computer science student passionate about software development, open source, and cutting-edge technologies. I like building projects that solve real-world problems and contribute to the developer community.
+I'm a computer science student passionate about Data Science, Machine Learning, software development, open source, and cutting-edge technologies. I like building projects that solve real-world problems and making valuable insights from data.
 
 - 🔭 I'm currently learning on: **Machine Learning & Full Stack Developement**
 - 👯 I'm looking to collaborate on: **Open source projects**
