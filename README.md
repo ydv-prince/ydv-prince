@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hello, I'm Prince!</h1>
-<h3 align="center">🎓 Computer Science Student | Data Analysis & Data Science Aspirant</h3>
+<h3 align="center">🎓 CS Student | Aspiring Data Analyst & Data Scientist | Building Data-Driven Solutions</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ydv-prince&label=Profile%20views&color=0e75b6&style=flat" alt="ydv-prince" />
