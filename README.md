@@ -74,14 +74,11 @@ I'm a computer science student passionate about Data Science, Machine Learning, 
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
----
-
 <!-- <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ydv-prince&theme=radical&hide_border=true&cache_seconds=1800" />
   ## 📊 GitHub Stats
 </p> -->
 
----
 
 <!-- <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=ydv-prince" alt="GitHub Trophies" />
