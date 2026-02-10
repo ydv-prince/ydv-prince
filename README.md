@@ -114,17 +114,17 @@ I'm a computer science student passionate about Data Science, Machine Learning, 
 ## 📫 Connect With Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/prince-kumar-64664a194" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" height="28">
+  <a href="https://linkedin.com/in/prince-kumar-64664a194" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" height="30">
   </a>
-  <a href="mailto:pkumar052@rku.ac.in?subject=Contact%20from%20GitHub&body=Hello%20Prince,%20I%20visited%20your%20GitHub%20profile." target="_blank">
-    <img src="https://img.shields.io/badge/-Email-EA4335?style=flat-square&logo=gmail&logoColor=white" height="28">
+  <a href="mailto:pkumar052@rku.ac.in?subject=Contact%20from%20GitHub&body=Hello%20Prince,%20I%20visited%20your%20profile." target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/-Email-EA4335?style=flat-square&logo=gmail&logoColor=white" height="30">
   </a>
-  <a href="https://github.com/ydv-prince" target="_blank">
-    <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" height="28">
+  <a href="https://github.com/ydv-prince" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" height="30">
   </a>
-  <a href="https://leetcode.com/prince-ydv" target="_blank">
-    <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black" height="28">
+  <a href="https://leetcode.com/prince-ydv" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black" height="30">
   </a>
 </p>
 
