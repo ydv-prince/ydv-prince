@@ -113,11 +113,20 @@ I'm a computer science student passionate about Data Science, Machine Learning, 
 
 ## 📫 Connect With Me
 
-<p align="center"> <a href="https://linkedin.com/in/prince-kumar-64664a194"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-<a href="https://ydv-prince.github.io"><img src="https://img.shields.io/badge/Portfolio-FF7139?style=for-the-badge&logo=firefox-browser&logoColor=white" alt="Portfolio" /></a>
-<a href="https://leetcode.com/prince-ydv"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" /></a> </p>
-
-
+<p align="center">
+  <a href="https://linkedin.com/in/prince-kumar-64664a194" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:pkumar052@rku.ac.in" target="_blank">
+    <img src="https://img.shields.io/badge/Email-pkumar052@rku.ac.in-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://github.com/ydv-prince" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://leetcode.com/prince-ydv" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />
+  </a>
+</p>
 ---
 
 ## 📚 Currently Learning
