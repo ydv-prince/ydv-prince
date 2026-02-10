@@ -79,7 +79,7 @@ I'm a computer science student passionate about Data Science, Machine Learning, 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ydv-prince&show_icons=true&theme=radical" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ydv-prince&theme=radical&hide_border=true&cache_seconds=1800" />
 </p>
 
 ---
