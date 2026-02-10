@@ -76,18 +76,16 @@ I'm a computer science student passionate about Data Science, Machine Learning, 
 
 ---
 
--## 📊 GitHub Stats
-
 <!-- <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ydv-prince&theme=radical&hide_border=true&cache_seconds=1800" />
+  ## 📊 GitHub Stats
 </p> -->
 
 ---
 
--## 🏆 GitHub Trophies
-
 <!-- <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=ydv-prince" alt="GitHub Trophies" />
+  ## 🏆 GitHub Trophies
 </p> -->
 
 ---
