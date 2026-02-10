@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hello, I'm Prince!</h1>
+<h1 align="center">Hello, I'm Prince!</h1>
 <h3 align="center">🎓 CS Student | Aspiring Data Analyst & Data Scientist | Building Data-Driven Solutions</h3>
 
 <p align="center">
@@ -11,10 +11,10 @@
 
 I'm a computer science student passionate about Data Science, Machine Learning, software development, open source, and cutting-edge technologies. I like building projects that solve real-world problems and making valuable insights from data.
 
-- 🔭 I'm currently learning on: **Machine Learning & Full Stack Developement**
-- 👯 I'm looking to collaborate on: **Open source projects**
-- 💬 Ask me about: **Python, Web Development, Student Life, JAVA**
-- 📫 How to reach me: **pkumar052@rku.ac.in**
+- I'm currently learning: **Machine Learning & Full Stack Developement**
+- I'm looking to collaborate on: **Open source projects**
+- Ask me about: **Python, Machine Learning, Web Development, JAVA**
+- How to reach me: **pkumar052@rku.ac.in**
 
 ---
 
@@ -113,9 +113,8 @@ I'm a computer science student passionate about Data Science, Machine Learning, 
 
 ## 📫 Connect With Me
 
-<p align="center"> <a href="https://linkedin.com/in/prince-kumar-64664a194"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a> 
-<a href="mailto:pkumar052@rku.ac.in?subject=Contact%20from%20GitHub&body=Hello%20Prince," title="Send an email to Prince"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-<a href="https://ydv-prince.github.io"><img src="https://img.shields.io/badge/Portfolio-FF7139?style=for-the-badge&logo=firefox-browser&logoColor=white" alt="Portfolio" /></a>
+<p align="center"> <a href="https://linkedin.com/in/prince-kumar-64664a194"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<!-- <a href="https://ydv-prince.github.io"><img src="https://img.shields.io/badge/Portfolio-FF7139?style=for-the-badge&logo=firefox-browser&logoColor=white" alt="Portfolio" /></a> -->
 <a href="https://leetcode.com/prince-ydv"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" /></a> </p>
 
 
