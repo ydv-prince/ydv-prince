@@ -102,7 +102,7 @@ I'm a computer science student passionate about Data Science, Machine Learning, 
 | [Data Analysis](https://github.com/ydv-prince/EDA) | Exploratory Data Analysis | Python, Pandas, Numpy, Matplotlib, Seaborn |
 | [Machine Learning](https://github.com/ydv-prince/ML-Practicals) | Learning ML | Python, Scikit-learn |
 | [Healthcare](https://github.com/ydv-prince/Healthcare-Flutter) | Healthcare management system | Flutter, Firebase |
-| [Java Developement](https://github.com/ydv-prince/JAVA-Full-Stack) | Learning Java Developement | Java |
+| [Java Developement](https://github.com/ydv-prince/JAVA-Full-Stack) | Learning Java Developement | Java, Maven, SpringBoot |
 
 ---
 
