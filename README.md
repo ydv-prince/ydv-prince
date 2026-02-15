@@ -92,10 +92,10 @@ I'm a computer science student passionate about Data Science, Machine Learning, 
 
 ## 🎯 Current Focus
 
-- 🚀 **Advanced Machine Learning** & **Model Optimization**
-- 📊 Building **Real-World Data Science Projects**
-- 💻 Developing **Full-Stack Applications**
-- 🧠 Strengthening **Data Structures & Algorithms (DSA)** for Technical Interviews
+- **Advanced Machine Learning** & **Model Optimization**
+- Building **Real-World Data Science Projects**
+- Developing **Full-Stack Applications**
+- Strengthening **Data Structures & Algorithms (DSA)** for Technical Interviews
 
 ---
 
