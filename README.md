@@ -76,7 +76,7 @@ I'm a computer science student passionate about Data Science, Machine Learning, 
 | Project | Description | Tech |
 |----------|-------------|------|
 | [**EDA Repository**](https://github.com/ydv-prince/EDA) | Multi-dataset exploratory data analysis with preprocessing, encoding, scaling & visualization | Python, Pandas, Matplotlib |
-| [**Machine Learning Repository**](https://github.com/ydv-prince/ML-Practicals) | End-to-end ML implementations including ensemble methods, hyperparameter tuning & PCA | Python, Scikit-learn, XGBoost |
+| [**Machine Learning Repository**](https://github.com/ydv-prince/ML-Practicals) | Learning ML | Python, Scikit-learn |
 | [**Healthcare Flutter App**](https://github.com/ydv-prince/Healthcare-Flutter) | Firebase-integrated healthcare management mobile application | Flutter, Firebase |
 | [**Java Full Stack**](https://github.com/ydv-prince/JAVA-Full-Stack) | Backend & enterprise Java development practice | Java, Spring Boot |
 
