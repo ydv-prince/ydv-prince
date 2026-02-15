@@ -18,7 +18,36 @@ I'm a computer science student passionate about Data Science, Machine Learning, 
 
 ---
 
-## 🛠️ Tech Stack
+## 🚀 Core Expertise
+
+### 🔹 Data Science & Machine Learning
+- Exploratory Data Analysis (EDA)
+- Data Cleaning & Preprocessing
+- Feature Engineering
+- Supervised Learning (Regression & Classification)
+- Ensemble Methods (Bagging, Boosting, Stacking)
+- Hyperparameter Tuning & Model Evaluation
+- PCA & Dimensionality Reduction
+
+### 🔹 Programming
+- Python
+- Java
+- JavaScript
+- C#
+
+### 🔹 Databases
+- MySQL
+- SQL
+- MongoDB
+
+### 🔹 Web & App Development
+- MERN Stack (MongoDB, Express, React, Node)
+- Flutter (Firebase-integrated applications)
+- REST API Integration
+
+---
+
+## 🛠 Technical Stack
 
 ### Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -26,115 +55,67 @@ I'm a computer science student passionate about Data Science, Machine Learning, 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![C#](https://img.shields.io/badge/CSharp-239120?style=for-the-badge&logo=csharp&logoColor=white)
 
-### Data Science & Machine Learning
-
-#### **🤖 Core ML & AI**
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Statistics](https://img.shields.io/badge/Statistics-0080FF?style=for-the-badge&logo=chart.js&logoColor=white)
-![Probability](https://img.shields.io/badge/Probability-4B0082?style=for-the-badge&logo=dice&logoColor=white)
-![Linear Algebra](https://img.shields.io/badge/Linear%20Algebra-003366?style=for-the-badge&logo=matrix&logoColor=white)
-![Calculus](https://img.shields.io/badge/Calculus-8B0000?style=for-the-badge&logo=sigma&logoColor=white)
-
-#### **📊 Data Processing & Analysis**
+### Data Science Libraries
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Data Analysis](https://img.shields.io/badge/Data%20Analysis-2E8B57?style=for-the-badge&logo=google-analytics&logoColor=white)
-![Data Cleaning](https://img.shields.io/badge/Data%20Cleaning-4682B4?style=for-the-badge&logo=brush&logoColor=white)
-![Feature Engineering](https://img.shields.io/badge/Feature%20Engineering-8A2BE2?style=for-the-badge&logo=wrench&logoColor=white)
-![EDA](https://img.shields.io/badge/EDA%20(Exploratory%20Data%20Analysis)-32CD32?style=for-the-badge&logo=magnifying-glass&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge)
+![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge)
 
-#### **📈 Data Visualization**
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=matplotlib&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=seaborn&logoColor=white)
-![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
-![Bokeh](https://img.shields.io/badge/Bokeh-EF3C2D?style=for-the-badge&logo=bokeh&logoColor=white)
-![3D Plotting](https://img.shields.io/badge/3D%20Plotting-FF4500?style=for-the-badge&logo=cube&logoColor=white)
-
-#### **🔬 Data Science Tools**
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
-![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white)
-<!-- ![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white) -->
-
-### **Databases**
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-
-### Web Development
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-### Tools & Platforms
+### Development & Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipseide&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
-<!-- <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ydv-prince&theme=radical&hide_border=true&cache_seconds=1800" />
-  ## 📊 GitHub Stats
-</p> -->
-
-
-<!-- <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ydv-prince" alt="GitHub Trophies" />
-  ## 🏆 GitHub Trophies
-</p> -->
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
 ---
 
-## 📈 Contribution Graph
+## 📌 Highlight Projects
+
+| Project | Description | Tech |
+|----------|-------------|------|
+| [**EDA Repository**](https://github.com/ydv-prince/EDA) | Multi-dataset exploratory data analysis with preprocessing, encoding, scaling & visualization | Python, Pandas, Matplotlib |
+| [**Machine Learning Repository**](https://github.com/ydv-prince/ML-Practicals) | End-to-end ML implementations including ensemble methods, hyperparameter tuning & PCA | Python, Scikit-learn, XGBoost |
+| [**Healthcare Flutter App**](https://github.com/ydv-prince/Healthcare-Flutter) | Firebase-integrated healthcare management mobile application | Flutter, Firebase |
+| [**Java Full Stack**](https://github.com/ydv-prince/JAVA-Full-Stack) | Backend & enterprise Java development practice | Java, Spring Boot |
+
+
+---
+
+## 📊 Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ydv-prince&theme=radical&bg_color=0d1117&hide_border=true" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ydv-prince&theme=github-compact&hide_border=true" width="100%" />
 </p>
 
 ---
 
-## 🔥 Recent Projects
+## 🎯 Current Focus
 
-| Project | Description | Tech Stack |
-|---------|-------------|------------|
-| [Data Analysis](https://github.com/ydv-prince/EDA) | Exploratory Data Analysis | Python, Pandas, Numpy, Matplotlib, Seaborn |
-| [Machine Learning](https://github.com/ydv-prince/ML-Practicals) | Learning ML | Python, Scikit-learn |
-| [Healthcare](https://github.com/ydv-prince/Healthcare-Flutter) | Healthcare management system | Flutter, Firebase |
-| [Java Developement](https://github.com/ydv-prince/JAVA-Full-Stack) | Learning Java Developement | Java, Maven, SpringBoot |
+- Advanced Machine Learning & Model Optimization
+- Real-world Data Science Projects
+- Full Stack Application Development
+- Strengthening DSA for Technical Interviews
 
 ---
 
 ## 📫 Connect With Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/prince-kumar-64664a194" target="_blank" rel="noopener noreferrer" style="text-decoration:none;">
-    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" height="28">
+  <a href="https://linkedin.com/in/prince-kumar-64664a194">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" height="28">
   </a>
-  <a href="mailto:pkumar052@rku.ac.in?subject=Contact%20from%20GitHub&body=Hello%20Prince,%20I%20visited%20your%20profile." target="_blank" rel="noopener noreferrer" style="text-decoration:none;">
-    <img src="https://img.shields.io/badge/-Email-EA4335?style=flat-square&logo=gmail&logoColor=white" height="28">
+  <a href="mailto:pkumar052@rku.ac.in">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" height="28">
   </a>
-  <a href="https://github.com/ydv-prince" target="_blank" rel="noopener noreferrer" style="text-decoration:none;">
-    <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" height="28">
+  <a href="https://github.com/ydv-prince">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" height="28">
   </a>
-  <a href="https://leetcode.com/prince-ydv" target="_blank" rel="noopener noreferrer" style="text-decoration:none;">
-    <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black" height="28">
+  <a href="https://leetcode.com/prince-ydv">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black" height="28">
   </a>
 </p>
 
-
-
 ---
 
-## 📚 Currently Learning
-
-- **Data Science** as a Carrer Objective
-- **Machine Learning** with Python
-- **MERN** certification
-- **JAVA** for DSA & Enterprise Developement
-
----
-
-⭐ **Thanks for visiting my profile! Have a great day!** ⭐
+⭐ If you find my work valuable, feel free to explore my repositories and connect!
