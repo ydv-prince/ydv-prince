@@ -41,9 +41,10 @@ I'm a computer science student passionate about Data Science, Machine Learning, 
 - MongoDB
 
 ### 🔹 Web & App Development
-- MERN Stack (MongoDB, Express, React, Node)
+- Java Development (Core Java, OOP, Collections, JDBC)
+- Spring Boot (REST APIs, MVC Architecture)
 - Flutter (Firebase-integrated applications)
-- REST API Integration
+- REST API Development & Integration
 
 ---
 
