@@ -13,7 +13,7 @@ I'm a computer science student passionate about Data Science, Machine Learning, 
 
 - I'm currently learning: **Machine Learning & Full Stack Developement**
 - I'm looking to collaborate on: **Open source projects**
-- Ask me about: **Python, Machine Learning, Web Development, JAVA**
+- Ask me about: **Python, Machine Learning, JAVA**
 - Reach me at: **pkumar052@rku.ac.in**
 
 ---
