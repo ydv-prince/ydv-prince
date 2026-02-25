@@ -107,9 +107,9 @@ I'm a computer science student passionate about Data Science, Machine Learning, 
   <a href="https://linkedin.com/in/prince-kumar-64664a194">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" height="28">
   </a>
-  <a href="mailto:pkumar052@rku.ac.in">
+  <!-- <a href="mailto:pkumar052@rku.ac.in">
     <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" height="28">
-  </a>
+  </a> -->
   <a href="https://github.com/ydv-prince">
     <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" height="28">
   </a>
