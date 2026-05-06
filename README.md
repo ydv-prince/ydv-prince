@@ -36,16 +36,16 @@ I'm a computer science student passionate about Data Science, Machine Learning, 
 - C#
 
 ### 🔹 Databases
-- SQL
 - MySQL
 - MongoDB
 
+<!--
 ### 🔹 Web & App Development
 - Java Development (Core Java, OOP, Collections, JDBC)
 - Spring Boot (REST APIs, MVC Architecture)
 - Flutter (Firebase-integrated applications)
 - REST API Development & Integration
-
+-->
 ---
 
 ## 🛠 Technical Stack
@@ -53,8 +53,8 @@ I'm a computer science student passionate about Data Science, Machine Learning, 
 ### Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![C#](https://img.shields.io/badge/CSharp-239120?style=for-the-badge&logo=csharp&logoColor=white)
+<!-- ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![C#](https://img.shields.io/badge/CSharp-239120?style=for-the-badge&logo=csharp&logoColor=white) -->
 
 ### Data Science Libraries
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
@@ -76,10 +76,11 @@ I'm a computer science student passionate about Data Science, Machine Learning, 
 
 | Project | Description | Tech |
 |----------|-------------|------|
+| [**Machine Learning**](https://github.com/ydv-prince/Machine-Learning) | Learning ML | Python, Scikit-learn |
 | [**EDA Repository**](https://github.com/ydv-prince/EDA) | Multi-dataset exploratory data analysis with preprocessing, encoding, scaling & visualization | Python, Pandas, Matplotlib |
-| [**Machine Learning Repository**](https://github.com/ydv-prince/ML-Practicals) | Learning ML | Python, Scikit-learn |
+| [**Machine Learning Practices**](https://github.com/ydv-prince/ML-Practicals) | Practice of ML Tutorials| Python, Scikit-learn |
 | [**Healthcare Flutter App**](https://github.com/ydv-prince/Healthcare-Flutter) | Firebase-integrated healthcare management mobile application | Flutter, Firebase |
-| [**Java Full Stack**](https://github.com/ydv-prince/JAVA-Full-Stack) | Backend & enterprise Java development practice | Java, Spring Boot |
+<!-- | [**Java Full Stack**](https://github.com/ydv-prince/JAVA-Full-Stack) | Backend & enterprise Java development practice | Java, Spring Boot | -->
 
 
 ---
@@ -97,7 +98,7 @@ I'm a computer science student passionate about Data Science, Machine Learning, 
 - **Advanced Machine Learning** & **Model Optimization**
 - Building **Real-World Data Science Projects**
 - Developing **Full-Stack Applications**
-- Strengthening **Data Structures & Algorithms (DSA)** for Technical Interviews
+- Strengthening **Data Structures & Algorithms (DSA)**
 
 ---
 
@@ -110,9 +111,9 @@ I'm a computer science student passionate about Data Science, Machine Learning, 
   <!-- <a href="mailto:pkumar052@rku.ac.in">
     <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" height="28">
   </a> -->
-  <a href="https://github.com/ydv-prince">
+  <!-- <a href="https://github.com/ydv-prince">
     <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" height="28">
-  </a>
+  </a> -->
   <a href="https://leetcode.com/prince-ydv">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black" height="28">
   </a>
