@@ -1,4 +1,4 @@
-<!-- <h1 align="center">Hello, I'm Prince!</h1>
+<h1 align="center">Hello, I'm Prince!</h1>
 <h3 align="center">🎓 CS Student | Aspiring Data Analyst & Data Scientist | Building Data-Driven Solutions</h3>
 
 <p align="center">
@@ -120,4 +120,4 @@ I'm a computer science student passionate about Data Science, Machine Learning, 
 
 ---
 
-⭐ If you find my work valuable, feel free to explore my repositories and connect! -->
+⭐ If you find my work valuable, feel free to explore my repositories and connect!
