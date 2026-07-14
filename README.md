@@ -1,5 +1,5 @@
 <h1 align="center">Hello, I'm Prince!</h1>
-<h3 align="center">🎓 CS Student | Aspiring Data Analyst & Data Scientist | Building Data-Driven Solutions</h3>
+<h3 align="center">🎓 CS Student | Aspiring AI/ML Engineer | Building Data-Driven Solutions</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ydv-prince&label=Profile%20views&color=0e75b6&style=flat" alt="ydv-prince" />
@@ -9,11 +9,11 @@
 
 ## 🚀 About Me
 
-I'm a computer science student passionate about Data Science, Machine Learning, software development, open source, and cutting-edge technologies. I like building projects that solve real-world problems and making valuable insights from data.
+I'm a computer science student passionate about Machine Learning, Aritficial Intelligence, software development, open source, and cutting-edge technologies. I like building projects that solve real-world problems and making valuable insights from data.
 
-- I'm currently learning: **Machine Learning & Full Stack Developement**
+- I'm currently learning: **Machine Learning & Artificial Intelligence**
 - I'm looking to collaborate on: **Open source projects**
-- Ask me about: **Python, Machine Learning, JAVA**
+- Ask me about: **Python, Machine Learning, AI, JAVA**
 - Reach me at: **pkumar052@rku.ac.in**
 
 ---
