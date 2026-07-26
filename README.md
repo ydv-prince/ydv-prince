@@ -159,9 +159,9 @@ My learning approach emphasizes understanding complete AI workflows instead of i
 - LinkedIn
 - LeetCode
 - Email
-
----
 <!--
+---
+
 # Future Sections (Templates)
 
 
