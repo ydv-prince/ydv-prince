@@ -1,7 +1,3 @@
-# Prince
-
-> AI/ML • Data Science • Open Source
-
 <!-- ========================================================= -->
 <!-- HERO -->
 <!-- ========================================================= -->
@@ -39,7 +35,7 @@ AI/ML Engineering, Data Science, Software Engineering, or Research Internship op
 # GitHub Analytics
 
 ```md
-Replace YOUR_USERNAME in the following badges:
+Replace ydv-prince in the following badges:
 
 GitHub Stats
 Top Languages
