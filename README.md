@@ -1,10 +1,5 @@
-<!-- ========================================================= -->
-<!-- HERO -->
-<!-- ========================================================= -->
-
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,35:0F172A,100:06B6D4&height=220&sectio
-n=header&text=Prince&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=AI%2FML%20%E2%80%A2%20Data%20Science%20%E2%80%A2%20Open%20Source&descAlignY=58&descSize=18" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,35:0F172A,100:06B6D4&height=220&section=header&text=Prince&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=AI%2FML%20%E2%80%A2%20Data%20Science%20%E2%80%A2%20Open%20Source&descAlignY=58&descSize=18" width="100%">
 </p>
 
 <p align="center">
@@ -36,7 +31,7 @@ AI/ML Engineering, Data Science, Software Engineering, or Research Internship op
 # GitHub Analytics
 
 ```md
-Replace ydv-prince in the following badges:
+Replace YOUR_USERNAME in the following badges:
 
 GitHub Stats
 Top Languages
@@ -144,7 +139,7 @@ My learning approach emphasizes understanding complete AI workflows instead of i
 - DSA
 
 ---
-
+<!--
 # 2026 Roadmap
 
 - Complete Deep Learning specialization
@@ -156,6 +151,7 @@ My learning approach emphasizes understanding complete AI workflows instead of i
 - Publish technical articles
 
 ---
+-->
 
 # Connect
 
