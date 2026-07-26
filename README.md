@@ -1,124 +1,202 @@
-<h1 align="center">Hello, I'm Prince!</h1>
-<h3 align="center">🎓 CS Student | Aspiring AI/ML Engineer | Building Data-Driven Solutions</h3>
+# Prince
+
+> AI/ML • Data Science • Open Source
+
+<!-- ========================================================= -->
+<!-- HERO -->
+<!-- ========================================================= -->
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ydv-prince&label=Profile%20views&color=0e75b6&style=flat" alt="ydv-prince" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,35:0F172A,100:06B6D4&height=220&section=header&text=Prince&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=AI%2FML%20%E2%80%A2%20Data%20Science%20%E2%80%A2%20Open%20Source&descAlignY=58&descSize=18" width="100%">
 </p>
 
+<p align="center">
+Building Intelligent Systems Through Data
+</p>
+
+## About
+
+I'm a final-year Computer Engineering student at RK University focused on Artificial Intelligence, Machine Learning, and Data Science.
+
+My work centers on building intelligent systems through data preprocessing, feature engineering, predictive modeling, experimentation, and continuous learning. Alongside AI development, I strengthen my software engineering fundamentals through hands-on projects, algorithmic problem solving, and open-source learning.
+
+**Currently Exploring**
+
+- Deep Learning
+- NLP
+- Generative AI
+- LLMs
+- Retrieval-Augmented Generation (RAG)
+- AI Agents
+- MLOps Fundamentals
+
+**Seeking**
+
+AI/ML Engineering, Data Science, Software Engineering, or Research Internship opportunities.
+
 ---
 
-## 🚀 About Me
+# GitHub Analytics
 
-I'm a computer science student passionate about Machine Learning, Aritficial Intelligence, software development, open source, and cutting-edge technologies. I like building projects that solve real-world problems and making valuable insights from data.
+```md
+Replace YOUR_USERNAME in the following badges:
 
-- I'm currently learning: **Machine Learning & Artificial Intelligence**
-- I'm looking to collaborate on: **Open source projects**
-- Ask me about: **Python, Machine Learning, AI, JAVA**
-- Reach me at: **pkumar052@rku.ac.in**
+GitHub Stats
+Top Languages
+Streak Stats
+Activity Graph
+```
 
 ---
 
-## 🚀 Core Expertise
+# Featured Projects
 
-### 🔹 Data Science & Machine Learning
-- Exploratory Data Analysis (EDA)
-- Data Cleaning & Preprocessing
-- Feature Engineering
-- Supervised Learning (Regression & Classification)
-- Ensemble Methods (Bagging, Boosting, Stacking)
-- Hyperparameter Tuning & Model Evaluation
-- PCA & Dimensionality Reduction
+## Machine Learning
 
-### 🔹 Programming
+A comprehensive collection of machine learning implementations covering preprocessing, feature engineering, regression, classification, clustering, ensemble learning, dimensionality reduction, hyperparameter tuning, and model evaluation across multiple datasets.
+
+**Focus**
+
+Designed to strengthen practical understanding of classical machine learning through reproducible workflows, emphasizing clean preprocessing pipelines, model comparison, and performance evaluation.
+
+---
+
+## Exploratory Data Analysis
+
+A collection of end-to-end exploratory data analysis projects demonstrating data cleaning, preprocessing, visualization, feature engineering, and business-oriented insights across real-world datasets.
+
+---
+
+## Machine Learning Practicals
+
+Hands-on implementations of core machine learning concepts designed to reinforce theoretical understanding through practical experimentation.
+
+---
+
+## Healthcare Management System
+
+Flutter + Firebase application demonstrating authentication, cloud integration, real-time storage, and scalable mobile application architecture.
+
+---
+
+# Tech Ecosystem
+
+## Languages
+
 - Python
 - Java
+- SQL
 - JavaScript
 - C#
 
-### 🔹 Databases
+## AI & Data
+
+- NumPy
+- Pandas
+- Matplotlib
+- Scikit-Learn
+
+## Learning
+
+- TensorFlow
+- PyTorch
+- Hugging Face
+- LangChain
+- LlamaIndex
+
+## Databases
+
 - MySQL
 - MongoDB
+- Firebase
+
+## Tools
+
+- Git
+- GitHub
+- VS Code
+- Jupyter
+- Google Colab
+
+---
+
+# Learning Journey
+
+My learning approach emphasizes understanding complete AI workflows instead of isolated algorithms. Each project builds upon previous work, gradually expanding from data preprocessing and classical machine learning toward deep learning, natural language processing, and generative AI.
+
+---
+
+# Development Philosophy
+
+- Build before optimizing.
+- Understand before abstracting.
+- Prefer reproducible workflows.
+- Learn by implementing.
+- Document everything.
+
+---
+
+# Current Focus
+
+- End-to-end ML projects
+- Deep Learning
+- NLP
+- LLM applications
+- RAG
+- AI Agents
+- DSA
+
+---
+
+# 2026 Roadmap
+
+- Complete Deep Learning specialization
+- Build NLP projects
+- Develop RAG systems
+- Build AI Agents
+- Learn MLOps
+- Contribute to Open Source
+- Publish technical articles
+
+---
+
+# Connect
+
+- GitHub
+- LinkedIn
+- LeetCode
+- Email
+
+---
+
+# Future Sections (Templates)
 
 <!--
-### 🔹 Web & App Development
-- Java Development (Core Java, OOP, Collections, JDBC)
-- Spring Boot (REST APIs, MVC Architecture)
-- Flutter (Firebase-integrated applications)
-- REST API Development & Integration
+Achievements
+
+Research
+
+Publications
+
+Experience
+
+Certifications
+
+Hackathons
+
+Open Source Contributions
+
+Technical Blogs
+
+Community
+
+Speaking
+
+Awards
+
+Testimonials
 -->
----
-
-## 🛠 Technical Stack
-
-### Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-<!-- ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![C#](https://img.shields.io/badge/CSharp-239120?style=for-the-badge&logo=csharp&logoColor=white) -->
-
-### Data Science Libraries
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge)
-![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge)
-
-### Development & Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipseide&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
 ---
 
-## 📌 Highlight Projects
-
-| Project | Description | Tech |
-|----------|-------------|------|
-| [**Machine Learning**](https://github.com/ydv-prince/Machine-Learning) | Learning ML | Python, Scikit-learn |
-| [**EDA Repository**](https://github.com/ydv-prince/EDA) | Multi-dataset exploratory data analysis with preprocessing, encoding, scaling & visualization | Python, Pandas, Matplotlib |
-| [**Machine Learning Practices**](https://github.com/ydv-prince/ML-Practicals) | Practice of ML Tutorials| Python, Scikit-learn |
-| [**Healthcare Flutter App**](https://github.com/ydv-prince/Healthcare-Flutter) | Firebase-integrated healthcare management mobile application | Flutter, Firebase |
-<!-- | [**Java Full Stack**](https://github.com/ydv-prince/JAVA-Full-Stack) | Backend & enterprise Java development practice | Java, Spring Boot | -->
-
-
----
-
-## 📊 Contribution Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ydv-prince&theme=github-compact&hide_border=true" width="100%" />
-</p>
-
----
-
-## 🎯 Current Focus
-
-- **Advanced Machine Learning** & **Model Optimization**
-- Building **Real-World Data Science Projects**
-- Developing **Full-Stack Applications**
-- Strengthening **Data Structures & Algorithms (DSA)**
-
----
-
-## 📫 Connect With Me
-
-<p align="center">
-  <a href="https://linkedin.com/in/prince-kumar-64664a194">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" height="28">
-  </a>
-  <!-- <a href="mailto:pkumar052@rku.ac.in">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" height="28">
-  </a> -->
-  <!-- <a href="https://github.com/ydv-prince">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" height="28">
-  </a> -->
-  <a href="https://leetcode.com/prince-ydv">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black" height="28">
-  </a>
-</p>
-
----
-
-⭐ If you find my work valuable, feel free to explore my repositories and connect!
+> Always learning, always building—one project at a time toward becoming an AI/ML Engineer.
