@@ -322,8 +322,7 @@ Each project builds on the previous one, gradually progressing from classical Ma
 
 </p>
 
-- 🌐 **Portfolio:** https://portfolio5-princevercel.app
-- 💼 **LinkedIn:** https://www.linkedin.com/in/prince-kumar-64664a194
+- 💼 **LinkedIn:** https://www.linkedin.com/in/princetech04
 - 💻 **GitHub:** https://github.com/ydv-prince
 - 📧 **Email:** pkumar052@rku.ac.in
 
@@ -351,7 +350,7 @@ while(True):
 
 <p align="center">
 
-### ⭐ "Always learning, always building—one project at a time toward becoming an AI/ML Engineer."
+### "Always learning, always building—one project at a time toward becoming an AI/ML Engineer."
 
 </p>
 
