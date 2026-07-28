@@ -165,10 +165,10 @@ Libraries
 <p align="center">
   <a href="https://www.linkedin.com/in/princetech04" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin"/>
-  </a>&nbsp;&nbsp;
+  </a>&nbsp;
   <a href="https://discord.com/users/YOUR_DISCORD_ID" target="_blank">
     <img src="https://skillicons.dev/icons?i=discord"/>
-  </a>&nbsp;&nbsp;
+  </a>&nbsp;
   <a href="mailto:pkumar052@rku.ac.in">
     <img src="https://skillicons.dev/icons?i=gmail"/></a>
 </p>
