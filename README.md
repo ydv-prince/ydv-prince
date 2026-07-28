@@ -63,7 +63,7 @@ Alongside AI development, I actively strengthen my software engineering skills w
 
 # Featured Projects
 
-## Machine Learning
+## <a href="https://github.com/ydv-prince/Machine-Learning">Machine Learning</a>
 
 A comprehensive collection of machine learning implementations covering:
 
@@ -81,7 +81,7 @@ A comprehensive collection of machine learning implementations covering:
 
 Build reproducible ML workflows while understanding how different algorithms perform on real-world datasets.
 
-## Exploratory Data Analysis
+## <a href="https://github.com/ydv-prince/EDA">Exploratory Data Analysis</a>
 
 End-to-end EDA projects involving
 
@@ -91,7 +91,7 @@ End-to-end EDA projects involving
 - Business Insights
 - Statistical Analysis
 
-## EduPortal
+## <a href="https://github.com/ydv-prince/EduPortal">EduPortal</a>
 
 Java + Spring Boot based Learning Management System featuring
 
@@ -101,7 +101,7 @@ Java + Spring Boot based Learning Management System featuring
 - Authentication
 - MySQL Integration
 
-## Healthcare Management System
+## <a href="https://github.com/ydv-prince/Healthcare-Flutter">Healthcare Management System</a>
 
 Flutter + Firebase application featuring
 
