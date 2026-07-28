@@ -1,6 +1,9 @@
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,70:0F172A,100:06B6D4&height=220&section=header&text=Prince%20Kumar&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=AI/ML%20%7C%20Data%20Science%20%7C%20Software%20Development&descAlignY=58&descSize=18" width="100%">
 </p>
+<p align="center">
+  <a href="https://www.linkedin.com/in/princetech04" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin"/></a>&nbsp;&nbsp;<a href="https://discord.com/users/YOUR_DISCORD_ID" target="_blank"><img src="https://skillicons.dev/icons?i=discord"/></a>&nbsp;&nbsp;<a href="mailto:pkumar052@rku.ac.in"><img src="https://skillicons.dev/icons?i=gmail"/></a>
+</p>
 
 # About Me
 
