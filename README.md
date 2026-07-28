@@ -1,33 +1,10 @@
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,35:0F172A,100:06B6D4&height=220&section=header&text=Prince%20Kumar&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=AI%20%7C%20Machine%20Learning%20%7C%20Data%20Science&descAlignY=58&descSize=18" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,35:0F172A,100:06B6D4&height=220&section=header&text=Prince%20Kumar&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=AI/ML%20%7C%20Data%20Science%20%7C%20Open%20Source&descAlignY=58&descSize=18" width="100%">
 </p>
-
-<h3 align="center">
-Building Intelligent Systems Through Data
-</h3>
-
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=22&duration=3500&pause=1000&color=06B6D4&center=true&vCenter=true&width=650&lines=AI+%7C+ML+Enthusiast;Data+Science+Learner;Java+Backend+Developer;Open+Source+Learner;Always+Learning+Something+New+🚀">
-</p>
-
-<p align="center">
-<a href="https://github.com/ydv-prince">
-<img src="https://komarev.com/ghpvc/?username=ydv-prince&label=Profile+Views&color=0891b2&style=flat"/>
-</a>
-
-<a href="https://github.com/ydv-prince?tab=followers">
-<img src="https://img.shields.io/github/followers/ydv-prince?style=flat&logo=github"/>
-</a>
-
-<img src="https://img.shields.io/badge/Open%20to-Internships-success"/>
-
-</p>
-
----
 
 # 👨‍💻 About Me
 
-I'm **Prince Kumar**, a final-year **Computer Engineering** student at **RK University** with a strong interest in **Artificial Intelligence, Machine Learning, Data Science, and Backend Development**.
+I'm **Prince Kumar**, a final-year **Computer Engineering** student at **RK University** with a strong interest in **Artificial Intelligence, Machine Learning, Data Science and Software Development**.
 
 I enjoy transforming raw data into intelligent systems through data preprocessing, feature engineering, predictive modeling, experimentation, and continuous learning.
 
@@ -125,35 +102,7 @@ End-to-end EDA projects involving
 
 ---
 
-## 📚 Machine Learning Practicals
-
-Hands-on implementations of classical Machine Learning algorithms including
-
-- Linear Regression
-- Logistic Regression
-- Decision Trees
-- Random Forest
-- SVM
-- KNN
-- Naive Bayes
-- K-Means
-- PCA
-
----
-
-## 🏥 Healthcare Management System
-
-Flutter + Firebase application featuring
-
-- Authentication
-- Cloud Firestore
-- Firebase Storage
-- Real-time Database
-- Secure Mobile Architecture
-
----
-
-## 📖 EduPortal
+## EduPortal
 
 Java + Spring Boot based Learning Management System featuring
 
@@ -165,25 +114,29 @@ Java + Spring Boot based Learning Management System featuring
 
 ---
 
-# 💻 Tech Ecosystem
+## Healthcare Management System
+
+Flutter + Firebase application featuring
+
+- Authentication
+- Cloud Firestore
+- Firebase Storage
+- Real-time Database
+- Secure Mobile Architecture
+
+---
+
+# 💻 Technical Skills
 
 ## Languages
 
-<p>
-
-<img src="https://skillicons.dev/icons?i=python,java,js,sql,c"/>
-
-</p>
+- Python
+- Java
+- SQL
 
 ---
 
 ## AI & Data Science
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=python,tensorflow"/>
-
-</p>
 
 Libraries
 
@@ -197,12 +150,8 @@ Libraries
 
 ## Currently Learning
 
-<p>
-
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch"/>
-
-</p>
-
+- TensorFlow
+- Pytorch
 - Hugging Face
 - LangChain
 - LlamaIndex
@@ -213,126 +162,45 @@ Libraries
 
 ## Backend
 
-<p>
-
-<img src="https://skillicons.dev/icons?i=java,spring,maven"/>
-
-</p>
+- Java
+- Spring
+- Fast API
+- Flask
 
 ---
 
 ## Databases
 
-<p>
-
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,firebase"/>
-
-</p>
+- MySQL
+- MongoDB
+- Firebase
 
 ---
 
 ## Tools
 
-<p>
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,idea,eclipse,postman"/>
-
-</p>
-
-Also
-
+- GitHub
+- Postman
+- Vs Code
+- Eclipse
 - Jupyter Notebook
-- Google Colab
+- Goggle Colab
 
 ---
 
-# 📈 Learning Journey
+## Connect With Me
 
-I believe that mastering AI requires understanding the complete lifecycle—not just algorithms.
-
-My learning path focuses on:
-
-- Data Collection
-- Data Cleaning
-- Exploratory Data Analysis
-- Feature Engineering
-- Model Training
-- Hyperparameter Optimization
-- Evaluation
-- Deployment
-
-Each project builds on the previous one, gradually progressing from classical Machine Learning toward Deep Learning, NLP, and Generative AI.
-
----
-
-# 💡 Development Philosophy
-
-- Build before optimizing.
-- Understand before abstracting.
-- Prefer reproducible workflows.
-- Learn by implementing.
-- Document everything.
-- Keep improving every day.
-
----
-
-# 🎯 Current Focus
-
-- End-to-End Machine Learning Projects
-- Deep Learning
-- NLP
-- LLM Applications
-- Retrieval-Augmented Generation (RAG)
-- AI Agents
-- Spring Boot
-- Data Structures & Algorithms
-- Open Source Contributions
-
----
-
-<!--
-# 2026 Roadmap
-
-- Complete Deep Learning specialization
-- Build production ML projects
-- Build NLP systems
-- Develop RAG applications
-- Build AI Agents
-- Learn MLOps
-- Publish technical blogs
-- Contribute to Open Source
-
--->
-
-# 🤝 Connect With Me
-
-<p align="left">
+<p align="center", size="">
 
 <a href="https://github.com/ydv-prince">
 <img src="https://skillicons.dev/icons?i=github"/>
 </a>
 
-<a href="https://www.linkedin.com/in/prince-kumar-64664a194">
+<a href="https://www.linkedin.com/in/princetech04">
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
-<a href="mailto:pkumar052@rku.ac.in">
-<img src="https://skillicons.dev/icons?i=gmail"/>
-</a>
-
 </p>
-
-- 💼 **LinkedIn:** https://www.linkedin.com/in/princetech04
-- 💻 **GitHub:** https://github.com/ydv-prince
-- 📧 **Email:** pkumar052@rku.ac.in
-
----
-
-# 📚 Currently Reading
-
-- Hands-On Machine Learning with Scikit-Learn, Keras & TensorFlow
-- Designing Data-Intensive Applications
-- Deep Learning (Ian Goodfellow)
 
 ---
 
@@ -345,14 +213,6 @@ while(True):
     improve()
     repeat()
 ```
-
----
-
-<p align="center">
-
-### "Always learning, always building—one project at a time toward becoming an AI/ML Engineer."
-
-</p>
 
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,35:0F172A,100:000000&height=120&section=footer"/>
