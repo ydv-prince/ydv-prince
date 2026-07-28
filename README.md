@@ -1,18 +1,30 @@
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,35:0F172A,100:06B6D4&height=220&section=header&text=Prince%20Kumar&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=AI/ML%20%7C%20Data%20Science%20%7C%20Open%20Source&descAlignY=58&descSize=18" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,70:0F172A,100:06B6D4&height=220&section=header&text=Prince%20Kumar&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=AI/ML%20%7C%20Data%20Science%20%7C%20Software%20Development&descAlignY=58&descSize=18" width="100%">
 </p>
 
-# 👨‍💻 About Me
+<p align="center">
 
-I'm **Prince Kumar**, a final-year **Computer Engineering** student at **RK University** with a strong interest in **Artificial Intelligence, Machine Learning, Data Science and Software Development**.
+<a href="https://github.com/ydv-prince">
+<img height="30" src="https://skillicons.dev/icons?i=github"/>
+</a>
 
-I enjoy transforming raw data into intelligent systems through data preprocessing, feature engineering, predictive modeling, experimentation, and continuous learning.
+<a href="https://www.linkedin.com/in/princetech04">
+<img height="30" src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+
+<img height="30" src="https://skillicons.dev/icons?i=discord"/>
+</a>
+</p>
+
+# About Me
+
+I'm **Prince**, a final-year **Computer Engineering** student at **RK University** with a strong interest in **Artificial Intelligence, Machine Learning, Data Science and Software Development**.
+
+I enjoy building intelligent systems by transforming raw data into actionable insights through data preprocessing, feature engineering, predictive modeling, and continuous experimentation.
 
 Alongside AI development, I actively strengthen my software engineering skills with Java, Spring Boot, SQL, and Data Structures & Algorithms.
 
----
-
-## 🚀 Currently Exploring
+## Currently Exploring
 
 - Deep Learning
 - Natural Language Processing (NLP)
@@ -23,18 +35,14 @@ Alongside AI development, I actively strengthen my software engineering skills w
 - MLOps Fundamentals
 - System Design
 
----
-
-## 🎯 Seeking
+## Seeking
 
 - AI/ML Engineer Internship
 - Data Science Internship
 - Software Engineering Internship
 - Research Internship
 
----
-
-# 📊 GitHub Analytics
+# GitHub Analytics
 
 <p align="center">
 <!--
@@ -66,11 +74,10 @@ Alongside AI development, I actively strengthen my software engineering skills w
 
 </p>
 -->
----
 
-# 🚀 Featured Projects
+# Featured Projects
 
-## 🤖 Machine Learning
+## Machine Learning
 
 A comprehensive collection of machine learning implementations covering:
 
@@ -88,9 +95,7 @@ A comprehensive collection of machine learning implementations covering:
 
 Build reproducible ML workflows while understanding how different algorithms perform on real-world datasets.
 
----
-
-## 📊 Exploratory Data Analysis
+## Exploratory Data Analysis
 
 End-to-end EDA projects involving
 
@@ -99,8 +104,6 @@ End-to-end EDA projects involving
 - Visualization
 - Business Insights
 - Statistical Analysis
-
----
 
 ## EduPortal
 
@@ -112,8 +115,6 @@ Java + Spring Boot based Learning Management System featuring
 - Authentication
 - MySQL Integration
 
----
-
 ## Healthcare Management System
 
 Flutter + Firebase application featuring
@@ -124,17 +125,13 @@ Flutter + Firebase application featuring
 - Real-time Database
 - Secure Mobile Architecture
 
----
-
-# 💻 Technical Skills
+# Technical Skills
 
 ## Languages
 
 - Python
 - Java
 - SQL
-
----
 
 ## AI & Data Science
 
@@ -146,19 +143,14 @@ Libraries
 - Scikit-Learn
 - Seaborn
 
----
-
 ## Currently Learning
 
 - TensorFlow
 - Pytorch
 - Hugging Face
 - LangChain
-- LlamaIndex
 - Transformers
 - OpenAI APIs
-
----
 
 ## Backend
 
@@ -167,15 +159,11 @@ Libraries
 - Fast API
 - Flask
 
----
-
 ## Databases
 
 - MySQL
 - MongoDB
 - Firebase
-
----
 
 ## Tools
 
@@ -186,23 +174,22 @@ Libraries
 - Jupyter Notebook
 - Goggle Colab
 
----
+## Connect
 
-## Connect With Me
-
-<p align="center", size="">
+<p align="left">
 
 <a href="https://github.com/ydv-prince">
-<img src="https://skillicons.dev/icons?i=github"/>
+<img height="35" src="https://skillicons.dev/icons?i=github"/>
 </a>
 
 <a href="https://www.linkedin.com/in/princetech04">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
+<img height="35" src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+
+<img height="35" src="https://skillicons.dev/icons?i=discord"/>
 </a>
 
 </p>
-
----
 
 # ⚡ Fun Fact
 
@@ -211,9 +198,8 @@ while(True):
     learn()
     build()
     improve()
-    repeat()
 ```
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,35:0F172A,100:000000&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,70:0F172A,100:000000&height=120&section=footer"/>
 </p>
