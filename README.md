@@ -162,7 +162,9 @@ Libraries
 
 ## Connect
 
-<p align="center"><a href="https://www.linkedin.com/in/princetech04"><img src="https://skillicons.dev/icons?i=linkedin" height="35" /></a>&nbsp;&nbsp;<a href="https://discord.com/users/YOUR_DISCORD_ID"><img src="https://skillicons.dev/icons?i=discord" height="35" /></a>&nbsp;&nbsp;<a href="mailto:pkumar052@rku.ac.in"><img src="https://skillicons.dev/icons?i=gmail" height="35" /></a></p>
+<p align="center">
+  <a href="https://www.linkedin.com/in/princetech04" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" height="35" /></a>&nbsp;&nbsp;<a href="https://discord.com/users/YOUR_DISCORD_ID" target="_blank"><img src="https://skillicons.dev/icons?i=discord" height="35" /></a>&nbsp;&nbsp;<a href="mailto:pkumar052@rku.ac.in"><img src="https://skillicons.dev/icons?i=gmail" height="35" /></a>
+</p>
 
 # ⚡ Fun Fact
 
