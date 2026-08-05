@@ -166,7 +166,7 @@ Libraries
   <a href="https://www.linkedin.com/in/princetech04" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin"/>
   </a>&nbsp;
-  <a href="https://discord.com/users/YOUR_DISCORD_ID" target="_blank">
+  <a href="https://discord.com/users/princetech04" target="_blank">
     <img src="https://skillicons.dev/icons?i=discord"/>
   </a>&nbsp;
   <a href="mailto:pkumar052@rku.ac.in">
