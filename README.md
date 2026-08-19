@@ -63,23 +63,35 @@ Alongside AI development, I actively strengthen my software engineering skills w
 
 # Featured Projects
 
-## <a href="https://github.com/ydv-prince/Machine-Learning">Machine Learning</a>
+## <a href="https://github.com/ydv-prince/Customer-Segmentation">Customer Segmentation MLOps Platform</a>
 
-A comprehensive collection of machine learning implementations covering:
+End-to-end MLOps platform for customer segmentation and real-time segment prediction featuring
 
-- Data Cleaning
+- PCA + K-Means Clustering
+- Logistic Regression Classification
+- Data Drift Detection
 - Feature Engineering
-- Regression
-- Classification
-- Clustering
-- PCA
-- Ensemble Learning
-- Hyperparameter Tuning
-- Model Evaluation
+- FastAPI REST APIs
+- AWS S3 Model Storage
+- Docker
+- GitHub Actions CI/CD
+- Render Deployment
 
-**Goal**
+## <a href="https://github.com/ydv-prince/loan-risk-predictor">Loan Risk Predictor</a>
 
-Build reproducible ML workflows while understanding how different algorithms perform on real-world datasets.
+End-to-end machine learning application for loan-risk classification featuring
+
+- Data Ingestion
+- Data Preprocessing
+- Feature Extraction
+- Model Training
+- Scikit-learn Pipeline
+- Flask Web Application
+- Real-time Prediction
+- CSV Batch Prediction
+- Logging & Custom Exception Handling
+- Automated Testing
+- Gunicorn & Render Deployment
 
 ## <a href="https://github.com/ydv-prince/EDA">Exploratory Data Analysis</a>
 
@@ -110,6 +122,24 @@ Flutter + Firebase application featuring
 - Firebase Storage
 - Real-time Database
 - Secure Mobile Architecture
+
+## <a href="https://github.com/ydv-prince/Machine-Learning">Machine Learning</a>
+
+A comprehensive collection of machine learning implementations covering:
+
+- Data Cleaning
+- Feature Engineering
+- Regression
+- Classification
+- Clustering
+- PCA
+- Ensemble Learning
+- Hyperparameter Tuning
+- Model Evaluation
+
+**Goal**
+
+Build reproducible ML workflows while understanding how different algorithms perform on real-world datasets.
 
 # Technical Skills
 
