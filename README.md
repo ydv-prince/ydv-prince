@@ -123,7 +123,7 @@ Flutter + Firebase application featuring
 - Real-time Database
 - Secure Mobile Architecture
 
-## <a href="https://github.com/ydv-prince/Machine-Learning">Machine Learning</a>
+<!--## <a href="https://github.com/ydv-prince/Machine-Learning">Machine Learning</a>
 
 A comprehensive collection of machine learning implementations covering:
 
@@ -140,6 +140,7 @@ A comprehensive collection of machine learning implementations covering:
 **Goal**
 
 Build reproducible ML workflows while understanding how different algorithms perform on real-world datasets.
+-->
 
 # Technical Skills
 
