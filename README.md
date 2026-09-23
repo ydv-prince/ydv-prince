@@ -26,7 +26,7 @@ Alongside AI development, I actively strengthen my software engineering skills w
 - AI/ML Engineer Internship
 - Data Science Internship
 - Software Engineering Internship
-- Research Internship
+- Research & Development Internship
 
 # GitHub Analytics
 
