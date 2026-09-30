@@ -19,6 +19,7 @@ Alongside AI development, I actively strengthen my software engineering skills w
 - Retrieval-Augmented Generation (RAG)
 - AI Agents
 - MLOps Fundamentals
+- RAG and Fine Tuning
 - System Design
 
 ## Seeking
@@ -160,7 +161,7 @@ Libraries
 - Scikit-Learn
 - Seaborn
 
-## Currently Learning
+## Currently Exploring
 
 - Hugging Face
 - LangChain
