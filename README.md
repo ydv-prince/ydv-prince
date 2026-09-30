@@ -162,12 +162,10 @@ Libraries
 
 ## Currently Learning
 
-- TensorFlow
-- Pytorch
 - Hugging Face
 - LangChain
+- LangGraph
 - Transformers
-- OpenAI APIs
 
 ## Backend
 
@@ -180,16 +178,6 @@ Libraries
 
 - MySQL
 - MongoDB
-- Firebase
-
-## Tools
-
-- GitHub
-- Postman
-- Vs Code
-- Eclipse
-- Jupyter Notebook
-- Goggle Colab
 
 ## Connect
 
