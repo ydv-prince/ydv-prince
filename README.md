@@ -62,6 +62,7 @@ Alongside AI development, I actively strengthen my software engineering skills w
 </p>
 -->
 
+<!--
 # Featured Projects
 
 ## <a href="https://github.com/ydv-prince/Customer-Segmentation">Customer Segmentation MLOps Platform</a>
@@ -124,7 +125,7 @@ Flutter + Firebase application featuring
 - Real-time Database
 - Secure Mobile Architecture
 
-<!--## <a href="https://github.com/ydv-prince/Machine-Learning">Machine Learning</a>
+## <a href="https://github.com/ydv-prince/Machine-Learning">Machine Learning</a>
 
 A comprehensive collection of machine learning implementations covering:
 
