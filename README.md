@@ -16,7 +16,7 @@ I'm a Computer Engineering undergraduate interested in AI, Machine Learning, and
 
 ## AI & Data Science
 
-Libraries
+### Libraries
 
 - NumPy
 - Pandas
