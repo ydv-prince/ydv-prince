@@ -4,145 +4,7 @@
 
 # About Me
 
-I'm **Prince**, a final-year **Computer Engineering** student at **RK University** with a strong interest in **Artificial Intelligence, Machine Learning, Data Science and Software Development**.
-
-I enjoy building intelligent systems by transforming raw data into actionable insights through data preprocessing, feature engineering, predictive modeling, and continuous experimentation.
-
-Alongside AI development, I actively strengthen my software engineering skills with Java, Spring Boot, SQL, and Data Structures & Algorithms.
-
-## Currently Exploring
-
-- Deep Learning
-- Natural Language Processing (NLP)
-- Generative AI
-- Large Language Models (LLMs)
-- Retrieval-Augmented Generation (RAG)
-- AI Agents
-- MLOps Fundamentals
-- RAG and Fine Tuning
-- System Design
-
-## Seeking
-
-- AI/ML Engineer Internship
-- Data Science Internship
-- Software Engineering Internship
-- Research & Development Internship
-
-# GitHub Analytics
-
-<p align="center">
-<!--
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=ydv-prince&show_icons=true&theme=tokyonight&hide_border=true"/>-->
-
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=ydv-prince&theme=tokyonight&hide_border=true"/>
-
-</p>
-
-<!--<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ydv-prince&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>-->
-
-<!--<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ydv-prince&theme=tokyo-night&hide_border=true"/>
-
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=ydv-prince&theme=algolia&column=4&margin-w=15&margin-h=15"/>
-
-</p>
--->
-
-<!--
-# Featured Projects
-
-## <a href="https://github.com/ydv-prince/Customer-Segmentation">Customer Segmentation MLOps Platform</a>
-
-End-to-end MLOps platform for customer segmentation and real-time segment prediction featuring
-
-- PCA + K-Means Clustering
-- Logistic Regression Classification
-- Data Drift Detection
-- Feature Engineering
-- FastAPI REST APIs
-- AWS S3 Model Storage
-- Docker
-- GitHub Actions CI/CD
-- Render Deployment
-
-## <a href="https://github.com/ydv-prince/loan-risk-predictor">Loan Risk Predictor</a>
-
-End-to-end machine learning application for loan-risk classification featuring
-
-- Data Ingestion
-- Data Preprocessing
-- Feature Extraction
-- Model Training
-- Scikit-learn Pipeline
-- Flask Web Application
-- Real-time Prediction
-- CSV Batch Prediction
-- Logging & Custom Exception Handling
-- Automated Testing
-- Gunicorn & Render Deployment
-
-## <a href="https://github.com/ydv-prince/EDA">Exploratory Data Analysis</a>
-
-End-to-end EDA projects involving
-
-- Data Cleaning
-- Missing Value Handling
-- Visualization
-- Business Insights
-- Statistical Analysis
-
-## <a href="https://github.com/ydv-prince/EduPortal">EduPortal</a>
-
-Java + Spring Boot based Learning Management System featuring
-
-- Student Module
-- Teacher Module
-- Admin Module
-- Authentication
-- MySQL Integration
-
-## <a href="https://github.com/ydv-prince/Healthcare-Flutter">Healthcare Management System</a>
-
-Flutter + Firebase application featuring
-
-- Authentication
-- Cloud Firestore
-- Firebase Storage
-- Real-time Database
-- Secure Mobile Architecture
-
-## <a href="https://github.com/ydv-prince/Machine-Learning">Machine Learning</a>
-
-A comprehensive collection of machine learning implementations covering:
-
-- Data Cleaning
-- Feature Engineering
-- Regression
-- Classification
-- Clustering
-- PCA
-- Ensemble Learning
-- Hyperparameter Tuning
-- Model Evaluation
-
-**Goal**
-
-Build reproducible ML workflows while understanding how different algorithms perform on real-world datasets.
--->
+I'm a Computer Engineering undergraduate interested in AI, Machine Learning, and Generative AI. I have hands-on experience working with Python, Machine Learning, Deep Learning, FastAPI, and Java. I enjoy building practical applications that solve real-world problems.<br><br>I'm currently learning Transformers, RAG, LangChain, Vector Databases, Hugging Face, and MCP, while trying to build agentic workflows.<br><br>Open to internship and entry-level opportunities.
 
 # Technical Skills
 
@@ -164,45 +26,25 @@ Libraries
 
 ## Currently Exploring
 
-- Hugging Face
+- RAG
 - LangChain
-- LangGraph
 - Transformers
+- AI Agents
+- Hugging Face
+- System Design
 
 ## Backend
 
-- Java
-- Spring
 - Fast API
 - Flask
+- Spring
 
 ## Databases
 
 - MySQL
 - MongoDB
-
-## Connect
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/princetech04" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin"/>
-  </a>&nbsp;
-  <a href="https://discord.com/users/princetech04" target="_blank">
-    <img src="https://skillicons.dev/icons?i=discord"/>
-  </a>&nbsp;
-  <a href="mailto:pkumar052@rku.ac.in">
-    <img src="https://skillicons.dev/icons?i=gmail"/></a>
-</p>
-
-# ⚡ Fun Fact
-
-```python
-while(True):
-    learn()
-    build()
-    improve()
-```
+- Postgres
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,70:0F172A,100:000000&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,70:0F172A,100:000000&height=100&section=footer"/>
 </p>
