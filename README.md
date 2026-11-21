@@ -8,42 +8,13 @@ I'm a Computer Engineering undergraduate interested in AI, Machine Learning, and
 
 # Technical Skills
 
-## Languages
-
-- Python
-- Java
-- SQL
-
-## AI & Data Science
-
-### Libraries
-
-- NumPy
-- Pandas
-- Matplotlib
-- Scikit-Learn
-- Seaborn
-
-## Currently Exploring
-
-- RAG
-- LangChain
-- Transformers
-- AI Agents
-- Hugging Face
-- System Design
-
-## Backend
-
-- Fast API
-- Flask
-- Spring
-
-## Databases
-
-- MySQL
-- MongoDB
-- Postgres
+| Category | Skills / Technologies |
+|---|---|
+| **Programming Languages** | Python, Java, SQL |
+| **AI & Data Science Libraries** | NumPy, Pandas, Matplotlib, Scikit-Learn, Seaborn, TensorFlow, PyTorch |
+| **Backend Frameworks** | FastAPI, Flask, Spring |
+| **Databases** | MySQL, MongoDB, PostgreSQL |
+| **Currently Exploring** | RAG, LangChain, Transformers, AI Agents, Hugging Face, System Design |
 
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,70:0F172A,100:000000&height=100&section=footer"/>
