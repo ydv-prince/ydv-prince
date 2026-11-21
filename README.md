@@ -16,9 +16,10 @@ I'm a Computer Engineering undergraduate interested in AI, Machine Learning, and
 | **Databases** | MySQL, MongoDB, PostgreSQL |
 | **Currently Exploring** | RAG, LangChain, Transformers, AI Agents, Hugging Face, System Design |
 
+<br>
 <p align="center">
   <a href="https://prince-portfolio04.vercel.app" target="_blank">
-    <img src="https://img.shields.io/badge/Visit_For_More-06B6D4?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+    <img src="https://img.shields.io/badge/Visit_For_More-06B6D4?style=for-the-badge&logoColor=white" alt="Portfolio"/>
   </a>
 </p>
 
