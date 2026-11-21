@@ -17,5 +17,11 @@ I'm a Computer Engineering undergraduate interested in AI, Machine Learning, and
 | **Currently Exploring** | RAG, LangChain, Transformers, AI Agents, Hugging Face, System Design |
 
 <p align="center">
+  <a href="https://prince-portfolio04.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/Visit_For_More-06B6D4?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+  </a>
+</p>
+
+<p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,70:0F172A,100:000000&height=100&section=footer"/>
 </p>
